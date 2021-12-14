@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**KermanX/KermanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn).
 
-Here are some ideas to get you started:
+I used to be a OIer, but I'm not now because I want to code whatever I want.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also in the group [*UniCoder*](https://github.com/UniCoderGroup).
+
+My nickname `_Kerman` comes from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
+
+### What's going on
+
+We are developing a project called `ucon`.
+
+It is a Node.js super framework for I/O in terminals.
+
+👉 See it [here](https://github.com/UniCoderGroup/ucon).
+
+And a game invited us that can both be played through paper or computer is being developed by us.
+
+👉 See it [here](https://github.com/UniCoderGroup/RayChess).
