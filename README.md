@@ -18,7 +18,7 @@ It is a Node.js super framework for I/O in terminals.
 
 👉 See it [here](https://github.com/UniCoderGroup/ucon).
 
-And RayChess is a game invited by us that can both be played on paper and computer.
+And `RayChess` is a game invited by us that can both be played on paper and computer.
 
 👉 See it [here](https://github.com/UniCoderGroup/RayChess).
 
