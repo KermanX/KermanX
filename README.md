@@ -23,3 +23,6 @@ And `RayChess` is a game invited by us that can both be played on paper and comp
 👉 See it [here](https://github.com/UniCoderGroup/RayChess).
 
 > _Kerman is *async*
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
