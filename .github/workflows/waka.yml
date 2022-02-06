@@ -1,7 +1,6 @@
 name: Waka Readme
 
 on:
-  repository_dispatch:
   workflow_dispatch:
   schedule:
     # Runs at every 12AM UTC
