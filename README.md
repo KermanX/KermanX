@@ -25,4 +25,7 @@ And `RayChess` is a game invited by us that can both be played on paper and comp
 > _Kerman is *async*
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
