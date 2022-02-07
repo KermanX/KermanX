@@ -12,9 +12,9 @@ Website: https://kermanx.github.io/
 
 ## What's going on
 
-##### We are developing the _**UCON PROJECT**_.
+#### We are developing the _**UCON PROJECT**_.
 
-It is a super framework of text-based output with components.
+&nbsp; It is a super framework of text-based output with components.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/ucon)
 
@@ -22,7 +22,7 @@ It is a super framework of text-based output with components.
 
 &nbsp;&nbsp;&nbsp; 💬 Chat at [Gitter](https://gitter.im/ucon-project) or [Github Discussion](https://github.com/UniCoderGroup/ucon/discussions)
 
-##### And _**RayChess**_ is a game invited by us that can be played both on paper and computer.
+#### And _**RayChess**_ is a game invited by us that can be played both on paper and computer.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/RayChess)
 
