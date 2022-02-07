@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am a middle school student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn) from China.
 
@@ -10,25 +10,29 @@ My nickname `_Kerman` comes from [Kerbal Space Program](https://www.kerbalspacep
 
 Website: https://kermanx.github.io/
 
-### What's going on
+## What's going on
 
 ##### We are developing the _**UCON PROJECT**_.
 
 It is a super framework of text-based output with components.
 
-👉 [Repository](https://github.com/UniCoderGroup/ucon).
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/ucon)
 
-🗺 [Intro&Roadmap](https://kermanx.github.io/posts/ucon_project/)
+&nbsp;&nbsp;&nbsp; 🗺 [Intro&Roadmap](https://kermanx.github.io/posts/ucon_project/)
+
+&nbsp;&nbsp;&nbsp; 💬 Chat at [Gitter](https://gitter.im/ucon-project) or [Github Discussion](https://github.com/UniCoderGroup/ucon/discussions)
 
 ##### And _**RayChess**_ is a game invited by us that can be played both on paper and computer.
 
-👉 [Repository](https://github.com/UniCoderGroup/RayChess).
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/RayChess)
 
-#### Github stats
+&nbsp;&nbsp;&nbsp; 📄 [Intro](https://kermanx.github.io/posts/raychess/)
+
+### Github stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
 
-#### Activity dashboard
+### Activity dashboard
 
 <!--START_SECTION:waka-->
 ```text
@@ -36,7 +40,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-#### Links to my accounts
+## Links to my accounts
   <a href="https://github.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://gitee.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-d73f4d?style=flat-square&logo=gitee&logoColor=white"/></a>
