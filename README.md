@@ -1,31 +1,55 @@
 ### Hi there 👋
 
-I am a Chinese middle school student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn).
+I am a middle school student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn) from China.
 
 I used to be a OIer, but I'm not now because I want to code whatever I want.
 
-I am also in the group [*UniCoder*](https://github.com/UniCoderGroup).
+I am also in the group **[*UniCoder*](https://github.com/UniCoderGroup)**.
 
 My nickname `_Kerman` comes from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
 
-Website: https://kermanx.github.io
+Website: https://kermanx.github.io/
 
 ### What's going on
 
-We are developing a project called `ucon`.
+##### We are developing the _**UCON PROJECT**_.
 
-It is a Node.js super framework for I/O in terminals.
+It is a super framework of text-based output with components.
 
-👉 See it [here](https://github.com/UniCoderGroup/ucon).
+👉 [Repository](https://github.com/UniCoderGroup/ucon).
 
-And `RayChess` is a game invited by us that can both be played on paper and computer.
+🗺 [Intro&Roadmap](https://kermanx.github.io/posts/ucon_project/)
 
-👉 See it [here](https://github.com/UniCoderGroup/RayChess).
+##### And _**RayChess**_ is a game invited by us that can be played both on paper and computer.
 
-> _Kerman is *async*
+👉 [Repository](https://github.com/UniCoderGroup/RayChess).
+
+#### Github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
+
+#### Activity dashboard
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+#### Links to my accounts
+  <a href="https://github.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://gitee.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-d73f4d?style=flat-square&logo=gitee&logoColor=white"/></a>
+  <a href="https://gitee.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-d73f4d?style=flat-square&logo=gitee&logoColor=white"/></a>
+  
+  <a href="mailto:kermanx@qq.com"><img src="https://img.shields.io/badge/-KermanX@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
+  <a href="https://gitter.im/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-4d434d?style=flat-square&logo=gitter&logoColor=white"/></a>
+  <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@_Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
+  
+  <a href="https://www.zhihu.com/people/kermanx-12"><img src="https://img.shields.io/badge/-@KermanX-0084ff?style=flat-square&logo=zhihu&logoColor=white"/></a>
+  <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@_Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+
+<br/>
+<br/>
+
+> _Kerman is *async*.
