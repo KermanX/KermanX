@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a middle school student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn) from China.
+I am a Chinese junior high school student in [Ningbo Zhenhai Jiaochuan Academy](http://www.nbjc.net.cn).
 
 I used to be a OIer, but I'm not now because I want to code whatever I want.
 
