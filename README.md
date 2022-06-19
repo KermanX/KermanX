@@ -37,7 +37,10 @@ Website: https://kermanx.github.io/
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 June 2022 - To: 18 June 2022
+
+JSON         2 hrs 13 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.04 %
+Other        20 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.64 %
 ```
 
 <!--END_SECTION:waka-->
