@@ -37,9 +37,10 @@ Website: https://kermanx.github.io/
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 01 July 2022
+From: 25 June 2022 - To: 02 July 2022
 
-Other        8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄   96.94 %
+TypeScript   2 hrs 7 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.40 %
+Other        11 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.66 %
 ```
 
 <!--END_SECTION:waka-->
