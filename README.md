@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-I am a Chinese high school student in [Zhenhai High School of Ningbo](http://www.zhzx.net.cn).
+I am a Chinese student in [Zhenhai High School of Ningbo](http://www.zhzx.net.cn).
 
-I used to be a OIer, but I'm not now because I want to code whatever I want.
-
-I am also in the group **[*UniCoder*](https://github.com/UniCoderGroup)**.
+I used to be an OIer, but I'm not now because I want to code whatever I want.
 
 My nickname `_Kerman` comes from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
 
@@ -12,11 +10,19 @@ Website: https://kermanx.github.io/
 
 ## What's going on
 
-#### We are developing _**ZVMS**_.
+#### We are developing _**SOF (Structure-oriented Framework)**_.
+
+&nbsp; It can't be described in few lines..........
+
+&nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Description**)](https://github.com/Structure-Oriented-Framework/SOF)
+
+&nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Implementation**)](https://github.com/Structure-Oriented-Framework/SOF-impl)
+
+#### Also _**ZVMS**_ for my school.
 
 &nbsp; It is a school volunteer-management system.
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/ucon)
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/zvms/zvms)
 
 #### And the _**UCON PROJECT**_ will never be forgotten.
 
