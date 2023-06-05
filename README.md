@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Chinese student in [Zhenhai High School of Ningbo](http://www.zhzx.net.cn).
+I am a student in [Zhenhai High School](http://www.zhzx.net.cn).
 
 I used to be an OIer, but I'm not now because I want to code whatever I want.
 
@@ -21,6 +21,8 @@ Website: https://kermanx.github.io/
 #### Also _**ZVMS**_ for my school.
 
 &nbsp; It is a school volunteer-management system.
+
+&nbsp; Now used by thousands of students in Zhenhai High School.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/zvms/zvms)
 
