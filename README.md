@@ -51,7 +51,7 @@ Website: https://kermanx.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2023 - To: 10 June 2023
+From: 04 June 2023 - To: 11 June 2023
 
 No activity tracked
 ```
