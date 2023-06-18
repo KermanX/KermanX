@@ -46,18 +46,6 @@ Website: https://kermanx.github.io/
 
 ![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
 
-### Activity dashboard
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 June 2023 - To: 17 June 2023
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ## Links to my accounts
   <a href="https://github.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-181717?style=flat-square&logo=github&logoColor=white"/></a>
