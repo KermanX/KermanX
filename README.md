@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student in [Zhenhai High School](http://www.zhzx.net.cn).
+I am a student in [USTC-SGY](https://sgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
 I used to be an OIer, but I'm not now because I want to code whatever I want.
 
