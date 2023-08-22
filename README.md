@@ -2,11 +2,7 @@
 
 I am a student in [USTC-SGY](https://sgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
-I gave up OI many yaers ago because I want to code whatever I want.
-
-My nickname `_Kerman` is from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
-
-Website: https://kermanx.github.io/
+Interested in framework development and machine proof.
 
 ## Projects
 
