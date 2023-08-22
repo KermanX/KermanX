@@ -43,6 +43,17 @@ Interested in framework development and machine proof.
 ### stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 August 2023 - To: 21 August 2023
+
+TypeScript       40 hrs 38 mins  ███████████████████████░░   91.45 %
+JSON             1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+HTML             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C++              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other            16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+```
+
 <!--END_SECTION:waka-->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
