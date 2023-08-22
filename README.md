@@ -12,7 +12,7 @@ Interested in framework development and machine proof.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
 
-#### *SOF*: Structure-oriented Framework
+#### ★ *SOF*: Structure-oriented Framework
 
 &nbsp; Can't be described in few lines..........
 
