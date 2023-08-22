@@ -2,33 +2,35 @@
 
 I am a student in [USTC-SGY](https://sgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
-I used to be an OIer, but I'm not now because I want to code whatever I want.
+I gave up OI many yaers ago because I want to code whatever I want.
 
-My nickname `_Kerman` comes from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
+My nickname `_Kerman` is from [Kerbal Space Program](https://www.kerbalspaceprogram.com).
 
 Website: https://kermanx.github.io/
 
-## What's going on
+## Projects
 
-#### We are developing _**SOF (Structure-oriented Framework)**_.
+#### ★ *Refina*: An extremely refined web framework
 
-&nbsp; It can't be described in few lines..........
+&nbsp; The successor of [ucon](#and-the-ucon-project-will-never-be-forgotten)  ImGUI. Named after `refine`. Benchmarking against *Vue* and *Svelte* .
+
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
+
+#### *SOF*: Structure-oriented Framework
+
+&nbsp; Can't be described in few lines..........
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Description**)](https://github.com/Structure-Oriented-Framework/SOF)
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Implementation**)](https://github.com/Structure-Oriented-Framework/SOF-impl)
 
-#### Also _**ZVMS**_ for my school.
+#### *ZVMS*: Zhenhai high school Volunteer Management System
 
-&nbsp; It is a school volunteer-management system.
-
-&nbsp; Now used by thousands of students in Zhenhai High School.
+&nbsp; Currently used by thousands of students in my high school.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/zvms/zvms)
 
-#### And the _**UCON PROJECT**_ will never be forgotten.
-
-&nbsp; It is a super framework of text-based output with components.
+#### the *UCON PROJECT*: A super text-based UI framework. Reorganized.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/ucon)
 
@@ -36,7 +38,7 @@ Website: https://kermanx.github.io/
 
 &nbsp;&nbsp;&nbsp; 💬 Chat at [Gitter](https://gitter.im/ucon-project) or [Github Discussion](https://github.com/UniCoderGroup/ucon/discussions)
 
-#### _**RayChess**_ is a game invited by us that can be played both on paper and computer.
+#### *RayChess*: A game
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/RayChess)
 
