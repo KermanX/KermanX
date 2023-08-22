@@ -40,7 +40,10 @@ Interested in framework development and machine proof.
 
 &nbsp;&nbsp;&nbsp; 📄 [Intro](https://kermanx.github.io/posts/raychess/)
 
-### Github stats
+### stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
 
