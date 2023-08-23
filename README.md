@@ -48,7 +48,7 @@ Interested in framework development and machine proof.
 From: 22 July 2023 - To: 21 August 2023
 
 TypeScript       70 hrs 21 mins  ██████████████▓░░░░░░░░░░   58.92 %
-V                35 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+Coq              35 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.33 %
 Rust             3 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 Markdown         3 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 JSON             2 hrs 19 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
