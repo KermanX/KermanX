@@ -45,13 +45,13 @@ Interested in framework development and machine proof.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 31 August 2023
+From: 02 August 2023 - To: 01 September 2023
 
-TypeScript       65 hrs 2 mins   ███████████████████████░░   92.33 %
-JSON             1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-HTML             53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-C++              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-TSConfig         26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript       58 hrs 28 mins  ███████████████████████▒░   92.98 %
+JSON             1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+HTML             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C++              30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JavaScript       21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
