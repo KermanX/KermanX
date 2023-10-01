@@ -8,7 +8,7 @@ Interested in framework development and machine proof.
 
 #### ★ *Refina*: An extremely refined web framework
 
-&nbsp; The successor of [ucon](#the-ucon-project-a-super-text-based-ui-framework-reorganized)  ImGUI. Named after `refine`. Benchmarking against *Vue* and *Svelte* .
+&nbsp; Named after `refine`. Benchmarking against *Vue* and *Svelte* .
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
 
