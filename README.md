@@ -69,7 +69,6 @@ Markdown         3 hrs 38 mins   ▓░░░░░░░░░░░░░░�
   <a href="https://gitter.im/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-4d434d?style=flat-square&logo=gitter&logoColor=white"/></a>
   <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
   
-  <a href="https://www.zhihu.com/people/kermanx-12"><img src="https://img.shields.io/badge/-@KermanX-0084ff?style=flat-square&logo=zhihu&logoColor=white"/></a>
   <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
 
 <br/>
