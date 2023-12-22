@@ -8,7 +8,7 @@ Interested in framework development and machine proof.
 
 #### ★ *Refina*: An extremely refined web framework
 
-&nbsp; Named after `refine`. Benchmarking against *Vue* and *Svelte* .
+&nbsp; Named after `refine`. Benchmarking *Vue* and *Svelte* .
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
 
