@@ -56,8 +56,6 @@ CSS          23 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![stats](https://github-readme-stats.vercel.app/api?username=KermanX&show_icons=true)
-
 ## Links to my accounts
   <a href="https://github.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://github.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-181717?style=flat-square&logo=github&logoColor=white"/></a>
