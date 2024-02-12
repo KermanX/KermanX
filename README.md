@@ -4,6 +4,8 @@ I am a student in [USTC-SGY](https://sgy.ustc.edu.cn/), also a graduate of [Zhen
 
 Interested in framework development and machine proof.
 
+[Slidev](https://github.com/slidevjs/slidev) team member.
+
 ## Projects
 
 #### ★ *Refina*: An extremely refined web framework
