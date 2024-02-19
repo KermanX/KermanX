@@ -4,13 +4,37 @@ I am a student in [USTC-SGY](https://sgy.ustc.edu.cn/), also a graduate of [Zhen
 
 Interested in framework development and machine proof.
 
-[Slidev](https://github.com/slidevjs/slidev) team member.
+<table><tbody><tr>
+
+<td align="middle">
+
+<a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="140"></a><br/>
+team member
+
+<br/>
+
+</td>
+<td align="left">
+
+### Slidev.js
+
+> Presentation Slides for Developers
+
+A Markdown-based and Vue-powered slides maker
+
+[Docs](https://sli.dev/) | [Repo](https://github.com/slidevjs/slidev) | [Showcases](https://github.com/slidevjs/slidev)
+
+<br/>
+
+</td>
+
+</tr></tbody></table>
 
 ## Projects
 
 #### ★ *Refina*: An extremely refined web framework
 
-&nbsp; Named after `refine`. Benchmarking *Vue* and *Svelte* .
+&nbsp; Named after `refine`. Benchmarking *Vue* and *Svelte*.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
 
@@ -24,7 +48,7 @@ Interested in framework development and machine proof.
 
 &nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Implementation**)](https://github.com/Structure-Oriented-Framework/SOF-impl)
 
-#### *ZVMS*: Zhenhai high school Volunteer Management System
+#### *ZVMS*: Zhenhai High School Volunteer Management System
 
 &nbsp; Currently used by thousands of students in my high school.
 
