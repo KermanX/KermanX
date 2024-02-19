@@ -49,13 +49,13 @@ Interested in framework development and machine proof.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-TypeScript   23 hrs 58 mins  ████████████▒░░░░░░░░░░░░   49.92 %
-Vue.js       9 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   20.66 %
-Markdown     9 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   20.27 %
-JavaScript   1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+TypeScript   26 hrs 25 mins  ██████████████░░░░░░░░░░░   56.14 %
+Vue.js       9 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.11 %
+Markdown     7 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+JavaScript   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+JSON         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
