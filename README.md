@@ -73,13 +73,13 @@ A Markdown-based and Vue-powered slides maker
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2024 - To: 24 February 2024
+From: 18 February 2024 - To: 25 February 2024
 
-TypeScript   26 hrs 6 mins   ██████████████░░░░░░░░░░░   55.79 %
-Vue.js       11 hrs 21 mins  ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Markdown     6 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-JavaScript   1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-JSON         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+TypeScript   24 hrs 33 mins  ████████████▒░░░░░░░░░░░░   49.90 %
+Vue.js       12 hrs 21 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+Markdown     8 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+JavaScript   1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JSON         56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
