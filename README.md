@@ -36,9 +36,17 @@ A Markdown-based and Vue-powered slides maker
 
 &nbsp; Named after `refine`. Benchmarking *Vue* and *Svelte*.
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/kermanx/refina)
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/refinajs/refina)
 
 &nbsp;&nbsp;&nbsp; 📖 [Documentation](https://refina.vercel.app/)
+
+#### ★ *Quasi Studio*: A structure-oriented and unique low-code development platform
+
+&nbsp; Build with *Refina.js*
+
+&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/Quasi-Studio/quasi)
+
+&nbsp;&nbsp;&nbsp; 🌐 [Try it online](https://quasi-studio.netlify.app/)
 
 #### ★ *SOF*: Structure-oriented Framework
 
