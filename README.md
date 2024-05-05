@@ -78,8 +78,6 @@ A Markdown-based and Vue-powered slides maker
 
 ### Stats
 
-![Stars](https://img.shields.io/github/stars/kermanx?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
-
 <!--START_SECTION:waka-->
 
 ```txt
