@@ -76,7 +76,7 @@ A Markdown-based and Vue-powered slides maker
 
 &nbsp;&nbsp;&nbsp; 📄 [Intro](https://kermanx.github.io/posts/raychess/)
 
-### Stats
+## Stats
 
 <!--START_SECTION:waka-->
 
@@ -92,17 +92,12 @@ JSON          2 hrs 1 min     █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Links to my accounts
-  <a href="https://github.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/UnitedOIers"><img src="https://img.shields.io/badge/-@UnitedOIers-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://gitee.com/KermanX"><img src="https://img.shields.io/badge/-@KermanX-d73f4d?style=flat-square&logo=gitee&logoColor=white"/></a>
-  <a href="https://gitee.com/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-d73f4d?style=flat-square&logo=gitee&logoColor=white"/></a>
+## Links
   
   <a href="mailto:kermanx@qq.com"><img src="https://img.shields.io/badge/-KermanX@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
-  <a href="https://gitter.im/UniCoderGroup"><img src="https://img.shields.io/badge/-@UniCoderGroup-4d434d?style=flat-square&logo=gitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/1129773314664054804"><img src="https://img.shields.io/badge/-kermanx-5662f6?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://x.com/@_kermanx_"><img src="https://img.shields.io/badge/-_kermanx_-333333?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
-  
   <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
 
 <br/>
