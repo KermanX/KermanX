@@ -16,7 +16,7 @@ team member
 </td>
 <td align="left">
 
-### Slidev.js
+### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=yellow" alt="GitHub Org's stars">
 
 > Presentation Slides for Developers
 
@@ -76,7 +76,9 @@ A Markdown-based and Vue-powered slides maker
 
 &nbsp;&nbsp;&nbsp; 📄 [Intro](https://kermanx.github.io/posts/raychess/)
 
-### stats
+### Stats
+
+![Stars](https://img.shields.io/github/stars/kermanx?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
 
 <!--START_SECTION:waka-->
 
