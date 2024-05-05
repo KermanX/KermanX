@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student in [USTC-SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
+I am a student at [USTC-SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
 Interested in framework development and machine proof.
 
