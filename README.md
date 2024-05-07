@@ -100,6 +100,8 @@ JSON          1 hr 49 mins    █░░░░░░░░░░░░░░░�
   <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
   <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
 
+❤️ SPONSOR ME: https://afdian.net/a/kermanx
+
 <br/>
 <br/>
 
