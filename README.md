@@ -4,6 +4,8 @@ I am a student at [USTC](https://en.ustc.edu.cn/).[SGY](https://en.scgy.ustc.edu
 
 Interested in framework development and machine proof.
 
+### Projects
+
 <!----------------------->
 
 <table><tbody><tr>
@@ -108,37 +110,15 @@ Wraps VSCode extension APIs into Vue Composables. (*WIP*)
 </td>
 </tr></tbody></table>
 
-## Other Projects
+**SOF**: Structure-oriented Framework &nbsp;-&nbsp; [Repo (Description)](https://github.com/Structure-Oriented-Framework/SOF) &nbsp;|&nbsp; [Repo (Implementation)](https://github.com/Structure-Oriented-Framework/SOF-impl)
 
-#### ★ *SOF*: Structure-oriented Framework
+**ZVMS**: Zhenhai High School Volunteer Management System &nbsp;-&nbsp; [Repo](https://github.com/zvms/zvms) &nbsp;|&nbsp; [History](https://zz-developer.github.io/projects/zvms/)
 
-&nbsp; Can't be described in few lines..........
+**UCON**: [DEPRECATED] A reorganized text-based UI framework &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/ucon) &nbsp;|&nbsp; [Intro&Roadmap](https://kermanx.github.io/posts/ucon-project.html)
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Description**)](https://github.com/Structure-Oriented-Framework/SOF)
+**RayChess**: [DEPRECATED] A paper-based game ported to Web &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/RayChess) &nbsp;|&nbsp; [Intro](https://kermanx.github.io/posts/raychess.html)
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository (SOF **Implementation**)](https://github.com/Structure-Oriented-Framework/SOF-impl)
-
-#### *ZVMS*: Zhenhai High School Volunteer Management System
-
-&nbsp; Currently used by thousands of students in my high school.
-
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/zvms/zvms)
-
-#### the *UCON PROJECT*: A super text-based UI framework. Reorganized.
-
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/ucon)
-
-&nbsp;&nbsp;&nbsp; 🗺 [Intro&Roadmap](https://kermanx.github.io/posts/ucon_project/)
-
-&nbsp;&nbsp;&nbsp; 💬 Chat at [Gitter](https://gitter.im/ucon-project) or [Github Discussion](https://github.com/UniCoderGroup/ucon/discussions)
-
-#### *RayChess*: A game
-
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/UniCoderGroup/RayChess)
-
-&nbsp;&nbsp;&nbsp; 📄 [Intro](https://kermanx.github.io/posts/raychess/)
-
-## Stats
+### Stats
 
 <!--START_SECTION:waka-->
 
@@ -154,17 +134,16 @@ Verilog       1 hr 31 mins    █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Links
+### Links
   
   <a href="mailto:kermanx@qq.com"><img src="https://img.shields.io/badge/-KermanX@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
   <a href="https://discord.com/users/1129773314664054804"><img src="https://img.shields.io/badge/-kermanx-5662f6?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://x.com/@_kermanx_"><img src="https://img.shields.io/badge/-_kermanx_-333333?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
   <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+  <br/>
+  <a href="https://afdian.net/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
 
-❤️ SPONSOR ME: https://afdian.net/a/kermanx
-
-<br/>
 <br/>
 
 > _Kerman is *async*.
