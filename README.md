@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a student at [USTC](https://en.ustc.edu.cn/).[SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
+I am a student at [USTC](https://en.ustc.edu.cn/)-[SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
-Interested in framework development and machine proof.
+I am interested in software framework development and computer-assisted proof.
 
 ### Projects
 
@@ -19,7 +19,7 @@ team member
 </td>
 <td align="left" width="630px">
 
-### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
+### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > Presentation Slides for Developers
 
@@ -45,7 +45,7 @@ creator
 </td>
 <td align="left" width="630px">
 
-### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
+### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > Finish your work with much less code.
 
@@ -71,7 +71,7 @@ creator
 </td>
 <td align="left" width="630px">
 
-### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
+### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > A structure-oriented and unique LCDP (Low-Code Development Platform).
 
@@ -97,7 +97,7 @@ creator
 </td>
 <td align="left" width="630px">
 
-### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=yellow" alt="GitHub repo's stars" title="GitHub repo's stars">
+### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
 
 > Develop VSCode extension with Vue 3 Composition API.
 
