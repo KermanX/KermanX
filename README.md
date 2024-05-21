@@ -9,7 +9,7 @@ Interested in framework development and machine proof.
 <!----------------------->
 
 <table><tbody><tr>
-<td align="middle">
+<td align="middle" width="170px">
 
 <a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="140"></a><br/>
 team member
@@ -17,7 +17,7 @@ team member
 <br/>
 
 </td>
-<td align="left">
+<td align="left" width="630px">
 
 ### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
 
@@ -27,7 +27,7 @@ A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 
 [Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://github.com/slidevjs/slidev)
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<br/>
 
 </td>
 </tr></tbody></table>
@@ -35,7 +35,7 @@ A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 <!----------------------->
 
 <table><tbody><tr>
-<td align="middle">
+<td align="middle" width="170px">
 
 <a href="https://github.com/refinajs/refina"><img alt="Refina logo" src="https://refinajs.github.io/refina/logo.svg" width="140"></a><br/>
 creator
@@ -43,7 +43,7 @@ creator
 <br/>
 
 </td>
-<td align="left">
+<td align="left" width="630px">
 
 ### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
 
@@ -53,7 +53,7 @@ Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need
 
 [Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<br/>
 
 </td>
 </tr></tbody></table>
@@ -61,7 +61,7 @@ Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need
 <!----------------------->
 
 <table><tbody><tr>
-<td align="middle">
+<td align="middle" width="170px">
 
 <a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
 creator
@@ -69,7 +69,7 @@ creator
 <br/>
 
 </td>
-<td align="left">
+<td align="left" width="630px">
 
 ### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
 
@@ -79,7 +79,7 @@ Designed for professional developers, but is intuitive and easy to use.
 
 [Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<br/>
 
 </td>
 </tr></tbody></table>
@@ -87,7 +87,7 @@ Designed for professional developers, but is intuitive and easy to use.
 <!----------------------->
 
 <table><tbody><tr>
-<td align="middle">
+<td align="middle" width="170px">
 
 <a href="https://github.com/KermanX/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.github.io/reactive-vscode/logo.svg" width="140"></a><br/>
 creator
@@ -95,7 +95,7 @@ creator
 <br/>
 
 </td>
-<td align="left">
+<td align="left" width="630px">
 
 ### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=yellow" alt="GitHub repo's stars" title="GitHub repo's stars">
 
@@ -105,18 +105,35 @@ Wraps VSCode extension APIs into Vue Composables. (*WIP*)
 
 [Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+<br/>
 
 </td>
 </tr></tbody></table>
 
+<table><tbody><tr><td width="800px">
+
 **SOF**: Structure-oriented Framework &nbsp;-&nbsp; [Repo (Description)](https://github.com/Structure-Oriented-Framework/SOF) &nbsp;|&nbsp; [Repo (Implementation)](https://github.com/Structure-Oriented-Framework/SOF-impl)
+
+</td></tr></body></table>
+
+<table><tbody><tr><td width="800px">
 
 **ZVMS**: Zhenhai High School Volunteer Management System &nbsp;-&nbsp; [Repo](https://github.com/zvms/zvms) &nbsp;|&nbsp; [History](https://zz-developer.github.io/projects/zvms/)
 
+</td></tr></body></table>
+
+<table><tbody><tr><td width="800px">
+
 **UCON**: [DEPRECATED] A reorganized text-based UI framework &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/ucon) &nbsp;|&nbsp; [Intro&Roadmap](https://kermanx.github.io/posts/ucon-project.html)
 
+
+</td></tr></body></table>
+
+<table><tbody><tr><td width="800px">
+
 **RayChess**: [DEPRECATED] A paper-based game ported to Web &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/RayChess) &nbsp;|&nbsp; [Intro](https://kermanx.github.io/posts/raychess.html)
+
+</td></tr></body></table>
 
 ### Stats
 
