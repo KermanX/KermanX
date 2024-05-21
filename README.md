@@ -4,8 +4,9 @@ I am a student at [USTC](https://en.ustc.edu.cn/).[SGY](https://en.scgy.ustc.edu
 
 Interested in framework development and machine proof.
 
-<table><tbody><tr>
+<!----------------------->
 
+<table><tbody><tr>
 <td align="middle">
 
 <a href="https://github.com/slidevjs/slidev"><img alt="Slidev logo" src="https://sli.dev/logo-title.png" width="140"></a><br/>
@@ -16,37 +17,98 @@ team member
 </td>
 <td align="left">
 
-### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=yellow" alt="GitHub Org's stars">
+### Slidev.js <img align="right" src="https://img.shields.io/github/stars/slidevjs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
 
 > Presentation Slides for Developers
 
-A Markdown-based and Vue-powered slides maker
+A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 
-[Docs](https://sli.dev/) | [Repo](https://github.com/slidevjs/slidev) | [Showcases](https://github.com/slidevjs/slidev)
+[Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://github.com/slidevjs/slidev)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+
+</td>
+</tr></tbody></table>
+
+<!----------------------->
+
+<table><tbody><tr>
+<td align="middle">
+
+<a href="https://github.com/refinajs/refina"><img alt="Refina logo" src="https://refinajs.github.io/refina/logo.svg" width="140"></a><br/>
+creator
 
 <br/>
 
 </td>
+<td align="left">
 
+### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
+
+> Finish your work with much less code.
+
+Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need.
+
+[Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+
+</td>
 </tr></tbody></table>
 
-## Projects
+<!----------------------->
 
-#### ★ *Refina*: An extremely refined web framework
+<table><tbody><tr>
+<td align="middle">
 
-&nbsp; Named after `refine`. Benchmarking *Vue* and *Svelte*.
+<a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
+creator
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/refinajs/refina)
+<br/>
 
-&nbsp;&nbsp;&nbsp; 📖 [Documentation](https://refina.vercel.app/)
+</td>
+<td align="left">
 
-#### ★ *Quasi Studio*: A structure-oriented and unique low-code development platform
+### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=yellow" alt="GitHub Org's stars" title="GitHub org's stars">
 
-&nbsp; Build with *Refina.js*
+> A structure-oriented and unique LCDP (Low-Code Development Platform).
 
-&nbsp;&nbsp;&nbsp; 📁 [Repository](https://github.com/Quasi-Studio/quasi)
+Designed for professional developers, but is intuitive and easy to use.
 
-&nbsp;&nbsp;&nbsp; 🌐 [Try it online](https://quasi-studio.netlify.app/)
+[Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+
+</td>
+</tr></tbody></table>
+
+<!----------------------->
+
+<table><tbody><tr>
+<td align="middle">
+
+<a href="https://github.com/KermanX/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.github.io/reactive-vscode/logo.svg" width="140"></a><br/>
+creator
+
+<br/>
+
+</td>
+<td align="left">
+
+### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=yellow" alt="GitHub repo's stars" title="GitHub repo's stars">
+
+> Develop VSCode extension with Vue 3 Composition API.
+
+Wraps VSCode extension APIs into Vue Composables. (*WIP*)
+
+[Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+
+</td>
+</tr></tbody></table>
+
+## Other Projects
 
 #### ★ *SOF*: Structure-oriented Framework
 
