@@ -114,26 +114,25 @@ Wraps VSCode extension APIs into Vue Composables. (*WIP*)
 
 **SOF**: Structure-oriented Framework &nbsp;-&nbsp; [Repo (Description)](https://github.com/Structure-Oriented-Framework/SOF) &nbsp;|&nbsp; [Repo (Implementation)](https://github.com/Structure-Oriented-Framework/SOF-impl)
 
-</td></tr></body></table>
+</td></tr></tbody></table>
 
 <table><tbody><tr><td width="800px">
 
 **ZVMS**: Zhenhai High School Volunteer Management System &nbsp;-&nbsp; [Repo](https://github.com/zvms/zvms) &nbsp;|&nbsp; [History](https://zz-developer.github.io/projects/zvms/)
 
-</td></tr></body></table>
+</td></tr></tbody></table>
 
 <table><tbody><tr><td width="800px">
 
 **UCON**: [DEPRECATED] A reorganized text-based UI framework &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/ucon) &nbsp;|&nbsp; [Intro&Roadmap](https://kermanx.github.io/posts/ucon-project.html)
 
-
-</td></tr></body></table>
+</td></tr></tbody></table>
 
 <table><tbody><tr><td width="800px">
 
 **RayChess**: [DEPRECATED] A paper-based game ported to Web &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/RayChess) &nbsp;|&nbsp; [Intro](https://kermanx.github.io/posts/raychess.html)
 
-</td></tr></body></table>
+</td></tr></tbody></table>
 
 ### Stats
 
