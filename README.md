@@ -25,7 +25,7 @@ team member
 
 A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 
-[Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://github.com/slidevjs/slidev)
+[Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://sli.dev/showcases)
 
 <br/>
 
@@ -99,9 +99,9 @@ creator
 
 ### reactive-vscode <img align="right" src="https://img.shields.io/github/stars/KermanX/reactive-vscode?style=flat-square&color=gold" alt="GitHub repo's stars" title="GitHub repo's stars">
 
-> Develop VSCode extension with Vue 3 Composition API.
+> Develop VSCode extension with Vue Reactivity API.
 
-Wraps VSCode extension APIs into Vue Composables. (*WIP*)
+Wraps VSCode extension APIs into Vue Composables.
 
 [Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
 
