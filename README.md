@@ -139,13 +139,13 @@ Wraps VSCode extension APIs into Vue Composables.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-TypeScript    9 hrs 4 mins    ███████████░░░░░░░░░░░░░░   43.59 %
-Markdown      5 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-JSON          2 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-Vue.js        2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-JavaScript    53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+TypeScript    9 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.15 %
+Markdown      4 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+JSON          1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Vue.js        1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+JavaScript    53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
