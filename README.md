@@ -63,32 +63,6 @@ Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
-creator
-
-<br/>
-
-</td>
-<td align="left" width="630px">
-
-### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
-
-> A structure-oriented and unique LCDP (Low-Code Development Platform).
-
-Designed for professional developers, but is intuitive and easy to use.
-
-[Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
-
-<br/>
-
-</td>
-</tr></tbody></table>
-
-<!----------------------->
-
-<table><tbody><tr>
-<td align="middle" width="170px">
-
 <a href="https://github.com/KermanX/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.github.io/reactive-vscode/logo.svg" width="140"></a><br/>
 creator
 
@@ -104,6 +78,32 @@ creator
 Wraps VSCode extension APIs into Vue Composables.
 
 [Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
+
+<br/>
+
+</td>
+</tr></tbody></table>
+
+<!----------------------->
+
+<table><tbody><tr>
+<td align="middle" width="170px">
+
+<a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
+co-creator
+
+<br/>
+
+</td>
+<td align="left" width="630px">
+
+### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+
+> A structure-oriented and unique LCDP (Low-Code Development Platform).
+
+Designed for professional developers, but is intuitive and easy to use.
+
+[Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
 
 <br/>
 
