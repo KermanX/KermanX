@@ -139,13 +139,13 @@ Designed for professional developers, but is intuitive and easy to use.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
-Markdown      16 hrs 2 mins   ███████████░░░░░░░░░░░░░░   44.17 %
-TypeScript    9 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Python        5 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-YAML          1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-JavaScript    57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Markdown      16 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   41.58 %
+TypeScript    10 hrs 19 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
+Python        5 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Vue.js        2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+YAML          1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
