@@ -112,6 +112,12 @@ Designed for professional developers, but is intuitive and easy to use.
 
 <table><tbody><tr><td width="800px">
 
+**tmLanguage Previewer**: A VS Code extension for previewing tmLanguage grammars &nbsp;-&nbsp; [Repo](https://github.com/KermanX/tmLanguage-Previewer) &nbsp;|&nbsp; [Marketplace](https://marketplace.visualstudio.com/items?itemName=kermanx.tmlanguage-previewer)
+
+</td></tr></tbody></table>
+
+<table><tbody><tr><td width="800px">
+
 **SOF**: Structure-oriented Framework &nbsp;-&nbsp; [Repo (Description)](https://github.com/Structure-Oriented-Framework/SOF) &nbsp;|&nbsp; [Repo (Implementation)](https://github.com/Structure-Oriented-Framework/SOF-impl)
 
 </td></tr></tbody></table>
