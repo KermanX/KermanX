@@ -2,7 +2,7 @@
 
 I am a student at [USTC](https://en.ustc.edu.cn/)-[SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
-I am interested in software framework development and computer-assisted proof.
+I am interested in software framework development and computer-assisted proof. Currently a web dev.
 
 ### Projects
 
