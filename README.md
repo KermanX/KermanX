@@ -164,7 +164,7 @@ JavaScript   2 hrs 16 mins   █▒░░░░░░░░░░░░░░░
   <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
   <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
   <br/>
-  <a href="https://afdian.net/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
+  <a href="https://afdian.com/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
 
 <br/>
 
