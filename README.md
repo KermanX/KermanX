@@ -145,13 +145,13 @@ Designed for professional developers, but is intuitive and easy to use.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2024 - To: 18 August 2024
+From: 12 August 2024 - To: 19 August 2024
 
-TypeScript    12 hrs 50 mins  ████████▒░░░░░░░░░░░░░░░░   33.55 %
-Rust          10 hrs 16 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.85 %
-Vue.js        9 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-JavaScript    2 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Markdown      1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Rust         20 hrs 10 mins  ████████████░░░░░░░░░░░░░   47.81 %
+TypeScript   10 hrs 8 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+Vue.js       7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+JavaScript   2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
