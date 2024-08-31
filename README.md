@@ -37,32 +37,6 @@ A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/refinajs/refina"><img alt="Refina logo" src="https://refinajs.github.io/refina/logo.svg" width="140"></a><br/>
-creator
-
-<br/>
-
-</td>
-<td align="left" width="630px">
-
-### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
-
-> Finish your work with much less code.
-
-Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need.
-
-[Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
-
-<br/>
-
-</td>
-</tr></tbody></table>
-
-<!----------------------->
-
-<table><tbody><tr>
-<td align="middle" width="170px">
-
 <a href="https://github.com/KermanX/reactive-vscode"><img alt="reactive-vscode logo" src="https://kermanx.github.io/reactive-vscode/logo.svg" width="140"></a><br/>
 creator
 
@@ -78,6 +52,32 @@ creator
 Wraps VSCode extension APIs into Vue Composables.
 
 [Docs](https://kermanx.github.io/reactive-vscode/) &nbsp;|&nbsp; [Repo](https://github.com/KermanX/reactive-vscode) &nbsp;|&nbsp; [Why reactive-vscode](https://kermanx.github.io/reactive-vscode/guide/why.html)
+
+<br/>
+
+</td>
+</tr></tbody></table>
+
+<!----------------------->
+
+<table><tbody><tr>
+<td align="middle" width="170px">
+
+<a href="https://github.com/refinajs/refina"><img alt="Refina logo" src="https://refinajs.github.io/refina/logo.svg" width="140"></a><br/>
+creator
+
+<br/>
+
+</td>
+<td align="left" width="630px">
+
+### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+
+> Finish your work with much less code.
+
+Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need.
+
+[Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
 
 <br/>
 
