@@ -161,8 +161,6 @@ Other        45 mins         ▒░░░░░░░░░░░░░░░░
   <a href="mailto:kermanx@qq.com"><img src="https://img.shields.io/badge/-KermanX@qq.com-168de2?style=flat-square&logo=mail.ru&logoColor=white"/></a>
   <a href="https://discord.com/users/1129773314664054804"><img src="https://img.shields.io/badge/-kermanx-5662f6?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://x.com/@_kermanx_"><img src="https://img.shields.io/badge/-_kermanx_-333333?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://im.qq.com/"><img src="https://img.shields.io/badge/-@__Kerman-f5f5f5?style=flat-square&logo=tencentqq&logoColor=e81f1f"/></a>
-  <a href="https://space.bilibili.com/1273710873"><img src="https://img.shields.io/badge/-@__Kerman-00a1d6?style=flat-square&logo=bilibili&logoColor=white"/></a>
   <br/>
   <a href="https://afdian.com/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
 
