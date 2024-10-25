@@ -2,11 +2,11 @@
 
 I am a student at [USTC](https://en.ustc.edu.cn/)-[SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
 
-I am interested in software framework development and computer-assisted proof. Currently a web dev.
+I am interested in software framework development and computer-assisted proof. Currently a web/rust dev.
 
 ### Projects
 
-<!----------------------->
+<!-- --------------------->
 
 <table><tbody><tr>
 <td align="middle" width="170px">
@@ -32,7 +32,7 @@ A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 </td>
 </tr></tbody></table>
 
-<!----------------------->
+<!-- --------------------->
 
 <table><tbody><tr>
 <td align="middle" width="170px">
@@ -58,12 +58,12 @@ Wraps VSCode extension APIs into Vue Composables.
 </td>
 </tr></tbody></table>
 
-<!----------------------->
+<!-- --------------------->
 
 <table><tbody><tr>
 <td align="middle" width="170px">
 
-<a href="https://github.com/refinajs/refina"><img alt="Refina logo" src="https://refinajs.github.io/refina/logo.svg" width="140"></a><br/>
+<a href="https://github.com/KermanX/tree-shaker"><img alt="Tree-shaker logo" src="https://kermanx.github.io/tree-shaker/favicon.ico" width="140"></a><br/>
 creator
 
 <br/>
@@ -71,39 +71,11 @@ creator
 </td>
 <td align="left" width="630px">
 
-### Refina.js <img align="right" src="https://img.shields.io/github/stars/refinajs?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
+### Experimental Tree Shaker (WIP) <img align="right" src="https://img.shields.io/github/stars/KermanX/tree-shaker?style=flat-square&color=gold" alt="GitHub Repo's stars" title="GitHub repo's stars">
 
-> Finish your work with much less code.
+A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/).
 
-Focus on development efficiency. ImGui-like DX. Plain TypeScript is all you need.
-
-[Docs](https://refinajs.github.io/refina/) &nbsp;|&nbsp; [Repo](https://github.com/refinajs/refina) &nbsp;|&nbsp; [Why Refina.js](https://refinajs.github.io/refina/guide/why.html)
-
-<br/>
-
-</td>
-</tr></tbody></table>
-
-<!----------------------->
-
-<table><tbody><tr>
-<td align="middle" width="170px">
-
-<a href="https://github.com/Quasi-Studio/quasi"><img alt="Quasi Studio logo" src="https://raw.githubusercontent.com/Quasi-Studio/quasi/main/packages/northstar/favicon.ico" width="140"></a><br/>
-co-creator
-
-<br/>
-
-</td>
-<td align="left" width="630px">
-
-### Quasi Studio <img align="right" src="https://img.shields.io/github/stars/Quasi-Studio?style=flat-square&color=gold" alt="GitHub Org's stars" title="GitHub org's stars">
-
-> A structure-oriented and unique LCDP (Low-Code Development Platform).
-
-Designed for professional developers, but is intuitive and easy to use.
-
-[Repo](https://github.com/Quasi-Studio/quasi) &nbsp;|&nbsp; [Try it](https://quasi-studio.vercel.app/)
+[Repo](https://github.com/KermanX/tree-shaker) | [Try it](https://kermanx.github.io/tree-shaker/)
 
 <br/>
 
@@ -112,31 +84,16 @@ Designed for professional developers, but is intuitive and easy to use.
 
 <table><tbody><tr><td width="800px">
 
-**tmLanguage Previewer**: A VS Code extension for previewing tmLanguage grammars &nbsp;-&nbsp; [Repo](https://github.com/KermanX/tmLanguage-Previewer) &nbsp;|&nbsp; [Marketplace](https://marketplace.visualstudio.com/items?itemName=kermanx.tmlanguage-previewer)
+<samp>
 
-</td></tr></tbody></table>
+**Other projects** \
+[Refina.js](https://github.com/refinajs/refina) - An refined ImGUI-style web framework \
+[Quasi Studio](https://github.com/Quasi-Studio/quasi) - A structure-oriented and unique [LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform) \
+[tmLanguage Previewer](https://github.com/KermanX/tmLanguage-Previewer) - A VS Code extension for previewing tmLanguage grammars \
+[SOF](https://github.com/Structure-Oriented-Framework/SOF) - The Structure-oriented Framework \
+[ZVMS](https://github.com/zvms/zvms) - Zhenhai High School Volunteer Management System
 
-<table><tbody><tr><td width="800px">
-
-**SOF**: Structure-oriented Framework &nbsp;-&nbsp; [Repo (Description)](https://github.com/Structure-Oriented-Framework/SOF) &nbsp;|&nbsp; [Repo (Implementation)](https://github.com/Structure-Oriented-Framework/SOF-impl)
-
-</td></tr></tbody></table>
-
-<table><tbody><tr><td width="800px">
-
-**ZVMS**: Zhenhai High School Volunteer Management System &nbsp;-&nbsp; [Repo](https://github.com/zvms/zvms) &nbsp;|&nbsp; [History](https://zz-developer.github.io/projects/zvms/)
-
-</td></tr></tbody></table>
-
-<table><tbody><tr><td width="800px">
-
-**UCON**: [DEPRECATED] A reorganized text-based UI framework &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/ucon) &nbsp;|&nbsp; [Intro&Roadmap](https://kermanx.github.io/posts/ucon-project.html)
-
-</td></tr></tbody></table>
-
-<table><tbody><tr><td width="800px">
-
-**RayChess**: [DEPRECATED] A paper-based game ported to Web &nbsp;-&nbsp; [Repo](https://github.com/UniCoderGroup/RayChess) &nbsp;|&nbsp; [Intro](https://kermanx.github.io/posts/raychess.html)
+</samp>
 
 </td></tr></tbody></table>
 
