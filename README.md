@@ -25,7 +25,7 @@ team member
 
 A Markdown-based and Vue-powered slides maker. Hackable and developer-friendly.
 
-[Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://sli.dev/showcases)
+[Docs](https://sli.dev/) &nbsp;|&nbsp; [Repo](https://github.com/slidevjs/slidev) &nbsp;|&nbsp; [Showcases](https://sli.dev/resources/showcases)
 
 <br/>
 
