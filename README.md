@@ -102,13 +102,13 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Rust          13 hrs 53 mins  ██████████▒░░░░░░░░░░░░░░   41.94 %
-JavaScript    6 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-TypeScript    3 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-Vue.js        2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-Markdown      1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Rust          17 hrs 54 mins  ████████████▒░░░░░░░░░░░░   49.20 %
+JavaScript    5 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+TypeScript    3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+Vue.js        2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Markdown      1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
 ```
 
 <!--END_SECTION:waka-->
