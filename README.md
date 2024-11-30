@@ -75,7 +75,7 @@ creator
 
 A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/).
 
-[Repo](https://github.com/KermanX/tree-shaker) | [Try it](https://kermanx.github.io/tree-shaker/)
+[Repo](https://github.com/KermanX/tree-shaker) &nbsp;|&nbsp; [Try it](https://kermanx.github.io/tree-shaker/)
 
 <br/>
 
