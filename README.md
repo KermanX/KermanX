@@ -97,7 +97,7 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 
 </td></tr></tbody></table>
 
-### Stats
+<!-- ### Stats -->
 
 <!--START_SECTION:waka-->
 
