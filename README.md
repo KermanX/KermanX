@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I am a student at [USTC](https://en.ustc.edu.cn/)-[SGY](https://en.scgy.ustc.edu.cn/), also a graduate of [Zhenhai High School](http://www.zhzx.net.cn).
-
-I am interested in software framework development and computer-assisted proof. Currently a web/rust dev.
+I am an undergraduate student at [USTC](https://en.ustc.edu.cn/)-[SGY](https://en.scgy.ustc.edu.cn/), with interests in compilers, software framework development, and computer-assisted proof.
 
 ### Projects
 
@@ -87,6 +85,8 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
 <samp>
 
 **Other projects** \
+[simple_ts](https://github.com/kermanx/simple_ts) - The simple way to resolve/infer TypeScript types \
+[js.rs](https://github.com/kermanx/js.rs) - JavaScript but in Rust syntax \
 [Refina.js](https://github.com/refinajs/refina) - An refined ImGUI-style web framework \
 [Quasi Studio](https://github.com/Quasi-Studio/quasi) - A structure-oriented and unique [LCDP](https://en.wikipedia.org/wiki/Low-code_development_platform) \
 [tmLanguage Previewer](https://github.com/KermanX/tmLanguage-Previewer) - A VS Code extension for previewing tmLanguage grammars \
@@ -110,7 +110,3 @@ A tree shaker for JavaScript written in Rust and based on [Oxc](https://oxc.rs/)
   <a href="https://x.com/@KermanX_"><img src="https://img.shields.io/badge/-KermanX_-333333?style=flat-square&logo=x&logoColor=white"/></a>
   <br/>
   <a href="https://afdian.com/a/kermanx"><img src="https://img.shields.io/badge/SPONSOR%20ME-white?style=flat-square&label=%E2%9D%A4%EF%B8%8F&labelColor=CCC&color=EEE" /></a>
-
-<br/>
-
-> _Kerman is *async*.
